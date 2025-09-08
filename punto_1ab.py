@@ -1,8 +1,6 @@
 # ==========================================================
 # PROBLEMA 1: Planificación de Sprint Ágil en Pyomo
 # ==========================================================
-
-
 from pyomo.environ import *
 import matplotlib.pyplot as plt
 import numpy as np

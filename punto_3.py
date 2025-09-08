@@ -1,5 +1,3 @@
-
-
 # ==========================================================
 # PROBLEMA 3: Logística de Misión Humanitaria en Pyomo
 # ==========================================================
@@ -9,7 +7,7 @@
 # Parte B incluye restricciones adicionales de seguridad
 # e incompatibilidad.
 # ==========================================================
-
+ 
 from pyomo.environ import *
 import matplotlib.pyplot as plt
 import numpy as np
